@@ -22,3 +22,5 @@ for m in mapel:
 def hasilPrediksi():
     L2.config(text="Teknologi Informasi")
 
+# 1 button
+B1 = tk.Button(top, text="Hasil Prediksi", command=hasilPrediksi)

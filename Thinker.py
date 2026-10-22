@@ -24,3 +24,5 @@ def hasilPrediksi():
 
 # 1 button
 B1 = tk.Button(top, text="Hasil Prediksi", command=hasilPrediksi)
+B1.pack(pady=10)
+

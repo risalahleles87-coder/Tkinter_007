@@ -14,4 +14,5 @@ entries = []
 for m in mapel:
     f = tk.Frame(top)
     f.pack(padx=20, pady=2)
+    tk.Label(f, text=m + ":", width=18, anchor="w").pack(side=tk.LEFT)
     

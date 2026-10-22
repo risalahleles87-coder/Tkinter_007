@@ -10,3 +10,4 @@ L1.pack(pady=10)
 # 10 input nilai mata pelajaran
 mapel = ["Matematika", "Bahasa Indonesia", "Bahasa Inggris", "Fisika", "Kimia",
          "Biologi", "Ekonomi", "Sejarah", "Geografi", "Informatika"]
+entries = []

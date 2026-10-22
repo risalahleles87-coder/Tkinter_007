@@ -11,3 +11,7 @@ L1.pack(pady=10)
 mapel = ["Matematika", "Bahasa Indonesia", "Bahasa Inggris", "Fisika", "Kimia",
          "Biologi", "Ekonomi", "Sejarah", "Geografi", "Informatika"]
 entries = []
+for m in mapel:
+    f = tk.Frame(top)
+    f.pack(padx=20, pady=2)
+    

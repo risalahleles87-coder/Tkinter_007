@@ -26,3 +26,5 @@ def hasilPrediksi():
 B1 = tk.Button(top, text="Hasil Prediksi", command=hasilPrediksi)
 B1.pack(pady=10)
 
+# 1 label luaran
+L2 = tk.Label(top, text="", font=("Arial", 13, "bold"), relief=tk.RAISED, width=30, height=2)

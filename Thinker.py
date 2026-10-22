@@ -17,3 +17,5 @@ for m in mapel:
     tk.Label(f, text=m + ":", width=18, anchor="w").pack(side=tk.LEFT)
     e = tk.Entry(f, bd=3, width=10)
     e.pack(side=tk.LEFT)
+    entries.append(e)
+

@@ -30,3 +30,4 @@ B1.pack(pady=10)
 L2 = tk.Label(top, text="", font=("Arial", 13, "bold"), relief=tk.RAISED, width=30, height=2)
 L2.pack(pady=(0, 15))
 
+top.mainloop()

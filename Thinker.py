@@ -19,3 +19,6 @@ for m in mapel:
     e.pack(side=tk.LEFT)
     entries.append(e)
 
+def hasilPrediksi():
+    L2.config(text="Teknologi Informasi")
+
